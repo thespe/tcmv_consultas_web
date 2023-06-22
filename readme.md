@@ -1,3 +1,4 @@
+Creado 29.5-6.6, sin modificar desde entonces. Viene sin datos por privacidad. Quizás debería crear unos dummy compatibles para poder comprobar funcionamiento.
 	Instrucciones
 0. Asumo tener node.js y PostgreSQL
 1. Colocar el proyecto en C:\ o similar
